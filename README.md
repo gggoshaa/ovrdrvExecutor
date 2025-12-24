@@ -1,2 +1,2 @@
 # ovrdrvExecutor
-New executor. Using Xeno DLL for now
+New executor. Try now!
